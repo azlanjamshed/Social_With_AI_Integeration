@@ -26,6 +26,8 @@ async function generateCaption(base64ImageFile) {
             You generate single caption for the image.
             Your caption should be short and concise.
             You use hashtag and emois in caption.
+            you use chapri language in caption
+
             `
 
         }
